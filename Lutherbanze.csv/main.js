@@ -14,12 +14,12 @@ navLinks.addEventListener("click", (e) => {
   menuBtnIcon.setAttribute("class", "ri-menu-line");
 });
 
-const downloadCv = document.getElementById("download-cv");
+const downloadCv = document.getElementById("download-LutherBanze.CV");
 
 downloadCv.addEventListener("click", (e) => {
   const aElement = document.createElement("a");
-  aElement.setAttribute("download", "CV.pdf");
-  aElement.setAttribute("href", "/assets/CV.pdf");
+  aElement.setAttribute("download", "LutherBanze.CV.pdf");
+  aElement.setAttribute("href", "file:///C:/Users/LutherBanze11/Documents/Alsoftware/LutherBanze/Lutherbanze.csv/cv/LutherBanze.CV.pdf");
   aElement.click();
 });
 

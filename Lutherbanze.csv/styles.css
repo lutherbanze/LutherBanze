@@ -273,9 +273,7 @@ nav {
   background-color: var(--secondary-color-dark);
 }
 
-.service__container .section__header::before {
-  content: "Service";
-}
+
 
 .service__container .section__description {
   max-width: 600px;
@@ -327,11 +325,7 @@ nav {
   text-align: center;
 }
 
-.resume__container .section__header::before {
-  content: "Resume";
-  left: 50%;
-  transform: translateX(-50%);
-}
+
 
 .resume__container .section__description {
   max-width: 600px;
@@ -458,11 +452,7 @@ nav {
   text-align: center;
 }
 
-.client__container .section__header::before {
-  content: "Testimonials";
-  left: 50%;
-  transform: translateX(-50%);
-}
+
 
 .client__container .section__description {
   max-width: 600px;
@@ -504,9 +494,7 @@ nav {
   border-radius: 100%;
 }
 
-.blog__container .section__header::before {
-  content: "Blog";
-}
+
 
 .blog__grid {
   margin-top: 4rem;
@@ -560,11 +548,7 @@ nav {
   text-align: center;
 }
 
-.footer__container .section__header::before {
-  content: "Contact Us";
-  left: 50%;
-  transform: translateX(-50%);
-}
+
 
 .footer__container .section__description {
   max-width: 600px;
