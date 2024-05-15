@@ -19,7 +19,7 @@ const downloadCv = document.getElementById("download-LutherBanze.CV");
 downloadCv.addEventListener("click", (e) => {
   const aElement = document.createElement("a");
   aElement.setAttribute("download", "LutherBanze.CV.pdf");
-  aElement.setAttribute("href", "LutherBanze/Lutherbanze.csv/cv/LutherBanze.CV.pdf");
+  aElement.setAttribute("href", "/LutherBanze/Lutherbanze.csv/cv.pdf");
   aElement.click();
 });
 
