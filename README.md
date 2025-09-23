@@ -50,3 +50,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lutherbanze&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+---
+
+### 🚀 Resumo Profissional
+
+| Categoria                | Detalhes                                                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ⏳ **Experiência** | **+3 Anos** (Desenvolvimento de Software & IA).                                                                                         |
+| 💻 **Linguagens** | Python, JavaScript, HTML5, CSS3, Dart, PHP.                                                                                            |
+| 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Visão Computacional.                              |
+| 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, PyTorch, Scikit-learn, Docker, VS Code.                                                                         |
+| 💡 **Projetos Chave** | **1. Sistema de Análise de Sentimentos:** Automação para análise de feedback de clientes usando NLP. <br> **2. App Mobile (Flutter):** Aplicativo para [descreva o objetivo] focado em usabilidade e performance. |
+| 🎓 **Formação** | [Seu curso, por exemplo: Engenharia de Software] na [Nome da Universidade].                                                           |
+
+---
