@@ -1,8 +1,8 @@
-# 👋 Oi, eu sou o [teu nome aqui]  
+# 👋 Oi, eu sou o Luther Banze  
 
-🎯 **Fascinado por Inteligência Artificial, automação e soluções que unem tecnologia e impacto social.**  
-💡 Atualmente explorando aplicações de **IA Generativa** e como ela pode aumentar a **produtividade** e transformar o **cotidiano**.  
-🚀 Apaixonado por **tecnologia, programação e inovação**.  
+🚀 **Especialista em soluções sob medida** e apaixonado por **Inteligência Artificial**.  
+🤖 Atualmente explorando aplicações de **IA Generativa**, **automação inteligente** e **inovação social**.  
+💡 Acredito que tecnologia + criatividade = impacto real no mundo.  
 
 ---
 
@@ -10,8 +10,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU-USERNAME&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU-USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutherbanze&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&theme=radical)
 
 </div>
 
@@ -30,21 +30,11 @@
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🐍 Snake Mode  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-
----
-
-## 🐍 Contribuições no GitHub  
-
-<div align="center">
-  <img src="https://github.com/TEU-USERNAME/TEU-USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
-✨ "A IA não substitui a criatividade humana, mas amplia o nosso potencial."  
+```txt
+        ██████████████████████
+        █                  █
+        █   🐍 --->        █
+        █                  █
+        ██████████████████████
