@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER" alt="Banner" width="100%"/>
+  <img src="https://lutherbanze.github.io/LutherBanze/banner1.png" alt="Banner" width="100%"/>
 </div>
 
 # Oi, eu sou o Luther Banze 👋
