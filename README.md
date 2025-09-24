@@ -47,7 +47,7 @@
 
 <div align="center">
   
-  <img height="180%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
