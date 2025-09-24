@@ -47,7 +47,7 @@
 
 <div>
   
-  <img height="500cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
