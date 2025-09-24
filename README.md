@@ -42,17 +42,6 @@
 
 ---
 
-### 🔥 Minhas Estatísticas no GitHub
-
-
-<div>
-  
-  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
----
-
 ### 🚀 Resumo Profissional
 
 | Categoria                | Detalhes                                                                                                                              |
@@ -65,3 +54,14 @@
 | 🎓 **Formação** | [Seu curso, por exemplo: Engenharia de Software] na [Nome da Universidade].                                                           |
 
 ---
+
+
+### 🔥 Minhas Estatísticas no GitHub
+
+
+<div>
+  <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutherbanze&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
