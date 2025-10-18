@@ -32,14 +32,15 @@
 
 ### 🚀 Resumo Profissional
 
+
 | Categoria                | Detalhes                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ⏳ **Experiência** | **+7 Anos** (Desenvolvimento de Software & IA).                                                                                         |
-| 💻 **Linguagens** | Python, JavaScript, HTML5, CSS3, Dart, PHP, SQL.                                                                                            |
-| 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Visão Computacional.                              |
-| 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, PyTorch, Scikit-learn, Docker, VS Code.                                                                         |
-| 💡 **Projetos Chave** | **1. Sistema de Análise de Sentimentos:** Automação para análise de feedback de clientes usando NLP. <br> **2. App Mobile (Flutter):** Aplicativo para [descreva o objetivo] focado em usabilidade e performance. |
-| 🎓 **Formação** | [Seu curso, por exemplo: Engenharia de Software] na [Nome da Universidade].                                                           |
+| 💻 **Linguagens** | C++, Dart, JavaScript, PHP, HTML5, CSS3, SQL, Python.                                                                                     |
+| 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Automação Inteligente.                              |
+| 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, Docker, VS Code, Firebase, Node.js.                                                           |
+| 💡 **Projetos Chave** | **1. Uniticket:** Plataforma de venda e gestão de bilhetes online em Moçambique. <br> **2. Aliyah:** Assistente de produtividade com IA, e ferramentas de automação pessoal. <br> **3. Kombela:** E-commerce de delivery de comida, produtos e eletrônicos. <br> **4. Prontus:** Sistema de gestão e prestação de serviços inteligentes. |
+| ⚙️ **Áreas de Atuação** | Integração de APIs, Backend & Frontend, UI/UX Design, Automação e IA Aplicada. |
 
 ---
 
