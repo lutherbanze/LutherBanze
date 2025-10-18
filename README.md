@@ -46,8 +46,8 @@
 
 | Categoria                | Detalhes                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ⏳ **Experiência** | **+3 Anos** (Desenvolvimento de Software & IA).                                                                                         |
-| 💻 **Linguagens** | Python, JavaScript, HTML5, CSS3, Dart, PHP.                                                                                            |
+| ⏳ **Experiência** | **+7 Anos** (Desenvolvimento de Software & IA).                                                                                         |
+| 💻 **Linguagens** | Python, JavaScript, HTML5, CSS3, Dart, PHP, SQL.                                                                                            |
 | 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Visão Computacional.                              |
 | 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, PyTorch, Scikit-learn, Docker, VS Code.                                                                         |
 | 💡 **Projetos Chave** | **1. Sistema de Análise de Sentimentos:** Automação para análise de feedback de clientes usando NLP. <br> **2. App Mobile (Flutter):** Aplicativo para [descreva o objetivo] focado em usabilidade e performance. |
