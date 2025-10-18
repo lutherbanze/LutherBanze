@@ -39,7 +39,7 @@ I am passionate about software development and Artificial Intelligence. My focus
 | 💻 **Linguagens** | C++, Dart, JavaScript, PHP, HTML5, CSS3, SQL, Python.                                                                                     |
 | 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Automação Inteligente.                              |
 | 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, Docker, VS Code, Firebase, Node.js.                                                           |
-| 💡 **Projetos Chave** | **1. Uniticket:** Plataforma de venda e gestão de bilhetes online em Moçambique. <br> **2. Aliyah:** Assistente de produtividade com IA, e ferramentas de automação pessoal. <br> **3. Kombela:** E-commerce de delivery de comida, produtos e eletrônicos. <br> **4. Prontus:** Sistema de gestão e prestação de serviços inteligentes. |
+| 💡 **Projetos Chave** | **1.Aliyah:** Assistente de produtividade com IA, e ferramentas de automação pessoal. <br> **3. Kombela:** E-commerce de delivery de comida, produtos e eletrônicos. |
 | ⚙️ **Áreas de Atuação** | Integração de APIs, Backend & Frontend, UI/UX Design, Automação e IA Aplicada. |
 
 ---
