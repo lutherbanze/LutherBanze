@@ -3,7 +3,7 @@
 # Oi, eu sou o Luther Banze 👋
 
 <p align="left"> 
-  Especialista em soluções sob medida e apaixonado por Inteligência Artificial. Atualmente explorando aplicações de IA Generativa, automação inteligente e inovação social. Acredito que tecnologia + criatividade = impacto real no mundo.
+I am passionate about software development and Artificial Intelligence. My focus is on building innovative apps powered by AI & Machine Learning, combining creativity and technology to solve real-world problems. Explore my projects and join me on this journey into the future of intelligent solutions.
 </p>
 
 ---
