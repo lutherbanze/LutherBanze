@@ -1,6 +1,6 @@
 
 
-# Oi, eu sou o Luther Banze 👋
+# Hi, I'm Luther Banze 👋
 
 <p align="left"> 
 I am passionate about software development and Artificial Intelligence. My focus is on building innovative apps powered by AI & Machine Learning, combining creativity and technology to solve real-world problems. Explore my projects and join me on this journey into the future of intelligent solutions.
