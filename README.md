@@ -26,7 +26,9 @@ I am focused on software development and Artificial Intelligence. My goal is to 
 
 ### 🤖 Inteligência Artificial & Machine Learning
 
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 ---
 
