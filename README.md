@@ -30,17 +30,16 @@ I am passionate about software development and Artificial Intelligence. My focus
 
 ---
 
-### 🚀 Resumo Profissional
+### 🚀 Professional Summary
 
 
-| Categoria                | Detalhes                                                                                                                              |
+| Category                | Details                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ⏳ **Experience** | **+7 Anos** (Desenvolvimento de Software & IA).                                                                                         |
-| 💻 **Linguagens** | C++, Dart, JavaScript, PHP, HTML5, CSS3, SQL, Python.                                                                                     |
-| 🤖 **Foco em IA** | Machine Learning, Modelos de IA Generativa, Processamento de Linguagem Natural (NLP), Automação Inteligente.                              |
-| 🔧 **Ferramentas & Tech** | Git, GitHub, TensorFlow, Docker, VS Code, Firebase, Node.js.                                                           |
-| 💡 **Projetos Chave** | **1.Aliyah:** Assistente de produtividade com IA, e ferramentas de automação pessoal. <br> **3. Kombela:** E-commerce de delivery de comida, produtos e eletrônicos. |
-| ⚙️ **Áreas de Atuação** | Integração de APIs, Backend & Frontend, UI/UX Design, Automação e IA Aplicada. |
+| ⏳ **Experience** | (API integration, Backend, Software Development and AI).                                                                                         |
+| 💻 **Programming languages** | C++, Dart, JavaScript, PHP, HTML5, CSS3, SQL, Python.                                                                                     |
+| 🤖 **Artificial intelligence** | Machine Learning, Generative AI Models, Natural Language Processing (NLP), Intelligent Automation.                              |
+| 🔧 **Tools & Tech** | Git, GitHub, VS Code, Firebase, Google Cloud Functions, Node.js.                                                           |
+| ⚙️ **Areas of Activity** | API Integration, Backend and Front End, UI/UX Design, Automation and Applied AI. |
 
 ---
 
