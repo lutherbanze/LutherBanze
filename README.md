@@ -38,7 +38,7 @@ I am focused on software development and Artificial Intelligence. My goal is to 
 | Category                | Details                                                                                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ⏳ **Experience** | (API integration, Backend, Software Development and AI).                                                                                         |
-| 💻 **Programming languages** | C++, Dart, JavaScript, PHP, HTML5, CSS3, SQL, Python.                                                                                     |
+| 💻 **Programming languages** | C++, Dart, JavaScript, PHP, SQL, Python.                                                                                     |
 | 🤖 **Artificial intelligence** | Machine Learning, Generative AI Models, Natural Language Processing (NLP), Intelligent Automation.                              |
 | 🔧 **Tools & Tech** | Git, GitHub, VS Code, Firebase, Google Cloud Functions, Node.js.                                                           |
 | ⚙️ **Areas of Activity** | API Integration, Backend and Front End, UI/UX Design, Automation and Applied AI. |
